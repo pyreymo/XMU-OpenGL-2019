@@ -1,0 +1,5 @@
+﻿  OpenGLTest3.cpp
+c:\users\administrator\source\repos\opengltest3\opengltest3\opengltest3.cpp(26): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\administrator\source\repos\opengltest3\opengltest3\opengltest3.cpp(55): warning C4305: “参数”: 从“double”到“GLclampf”截断
+c:\users\administrator\source\repos\opengltest3\opengltest3\opengltest3.cpp(78): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  OpenGLTest3.vcxproj -> C:\Users\Administrator\source\repos\OpenGLTest3\Debug\OpenGLTest3.exe

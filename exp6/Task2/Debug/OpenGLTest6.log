@@ -1,0 +1,10 @@
+﻿  OpenGLTest6.cpp
+C:\Users\Administrator\source\repos\OpenGLTest6\OpenGLTest6.cpp(238): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\source\repos\OpenGLTest6\OpenGLTest6.cpp(263): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\source\repos\OpenGLTest6\OpenGLTest6.cpp(264): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\source\repos\OpenGLTest6\OpenGLTest6.cpp(271): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\source\repos\OpenGLTest6\OpenGLTest6.cpp(272): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\source\repos\OpenGLTest6\OpenGLTest6.cpp(275): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\source\repos\OpenGLTest6\OpenGLTest6.cpp(276): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\source\repos\OpenGLTest6\OpenGLTest6.cpp(277): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  OpenGLTest6.vcxproj -> C:\Users\Administrator\source\repos\OpenGLTest6\Debug\OpenGLTest6.exe

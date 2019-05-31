@@ -1,0 +1,7 @@
+﻿  OpenGLtest1.cpp
+c:\users\administrator\source\repos\opengltest1\opengltest1\opengltest1.cpp(30): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\administrator\source\repos\opengltest1\opengltest1\opengltest1.cpp(31): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\administrator\source\repos\opengltest1\opengltest1\opengltest1.cpp(35): warning C4244: “=”: 从“double”转换到“GLint”，可能丢失数据
+c:\users\administrator\source\repos\opengltest1\opengltest1\opengltest1.cpp(50): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\administrator\source\repos\opengltest1\opengltest1\opengltest1.cpp(54): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  OpenGLtest1.vcxproj -> C:\Users\Administrator\source\repos\OpenGLtest1\Debug\OpenGLtest1.exe

@@ -1,0 +1,4 @@
+﻿  OpenGLTest5.cpp
+C:\Users\Administrator\source\repos\OpenGLTest5\OpenGLTest5.cpp(228): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\Administrator\source\repos\OpenGLTest5\OpenGLTest5.cpp(229): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+  OpenGLTest5.vcxproj -> C:\Users\Administrator\source\repos\OpenGLTest5\Debug\OpenGLTest5.exe

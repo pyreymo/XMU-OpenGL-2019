@@ -1,0 +1,7 @@
+﻿  OpenGLTest3.cpp
+c:\users\administrator\source\repos\opengltest3\opengltest3\opengltest3.cpp(13): warning C4305: “参数”: 从“double”到“GLclampf”截断
+c:\users\administrator\source\repos\opengltest3\opengltest3\opengltest3.cpp(107): warning C4305: “+=”: 从“double”到“GLfloat”截断
+c:\users\administrator\source\repos\opengltest3\opengltest3\opengltest3.cpp(110): warning C4305: “-=”: 从“double”到“GLfloat”截断
+c:\users\administrator\source\repos\opengltest3\opengltest3\opengltest3.cpp(113): warning C4305: “-=”: 从“double”到“GLfloat”截断
+c:\users\administrator\source\repos\opengltest3\opengltest3\opengltest3.cpp(116): warning C4305: “+=”: 从“double”到“GLfloat”截断
+  OpenGLTest3.vcxproj -> C:\Users\Administrator\source\repos\OpenGLTest3\Debug\OpenGLTest3.exe

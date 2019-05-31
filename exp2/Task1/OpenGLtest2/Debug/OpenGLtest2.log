@@ -1,0 +1,10 @@
+﻿  OpenGLtest2.cpp
+c:\users\administrator\source\repos\opengltest2\opengltest2\opengltest2.cpp(11): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\administrator\source\repos\opengltest2\opengltest2\opengltest2.cpp(19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\administrator\source\repos\opengltest2\opengltest2\opengltest2.cpp(25): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\opengltest2\opengltest2\opengltest2.cpp(35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\opengltest2\opengltest2\opengltest2.cpp(36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\opengltest2\opengltest2\opengltest2.cpp(37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\opengltest2\opengltest2\opengltest2.cpp(40): warning C4244: “参数”: 从“GLint”转换到“GLfloat”，可能丢失数据
+c:\users\administrator\source\repos\opengltest2\opengltest2\opengltest2.cpp(67): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  OpenGLtest2.vcxproj -> C:\Users\Administrator\source\repos\OpenGLtest2\Debug\OpenGLtest2.exe

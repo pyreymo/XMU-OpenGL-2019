@@ -1,0 +1,4 @@
+﻿  OpenGLTest7.cpp
+C:\Users\Administrator\source\repos\OpenGLTest7\OpenGLTest7.cpp(103): warning C4305: “+=”: 从“double”到“GLfloat”截断
+C:\Users\Administrator\source\repos\OpenGLTest7\OpenGLTest7.cpp(106): warning C4305: “-=”: 从“double”到“GLfloat”截断
+  OpenGLTest7.vcxproj -> C:\Users\Administrator\source\repos\OpenGLTest7\Debug\OpenGLTest7.exe
